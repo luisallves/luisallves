@@ -5,6 +5,11 @@
 - 📚 I’m currently learning Web Development
 - 📫 How to reach me: coopercontato27@gmail.com
 
+
+I'm a full stack developer Student at Trybe, Currently I work as a designer at Instictus Estamparia.
+
+I'm passionate about People and how I can help them to achieve their goals, I'm obsessed with making software to solve business scalability problems and Agile environments.
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,9 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full stack developer Student at Trybe, Currently I work as a designer at Instictus Estamparia.
-
-I'm passionate about People and how I can help them to achieve their goals, I'm obsessed with making software to solve business scalability problems and Agile environments.
 <div align="center">
   <a href="https://github.com/luisallves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisallves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
