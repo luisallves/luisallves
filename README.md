@@ -1,7 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey, I'm Luís Alves!
 ###### Pronouns: He/him (Ele).
 
-**luisallves/luisallves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📚 I’m currently learning Web Development
 - 📫 How to reach me: coopercontato27@gmail.com
 
